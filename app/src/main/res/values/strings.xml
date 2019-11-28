@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info_text">This app adds a new option LISTEN to the android text selection feature . With this option the app will pronounce the selected text.</string>
+</resources>
